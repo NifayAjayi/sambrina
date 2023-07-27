@@ -21,7 +21,7 @@ font-size: 1.125rem;
   height: 150vh;
   width: 100vw;
   position: relative;
-  background-image: url('../samrina/img/couple-g77b498264_1280.jpg');
+  background-image: url('./couple-g77b498264_1280.jpg');
   background-size: cover;
 }
 
